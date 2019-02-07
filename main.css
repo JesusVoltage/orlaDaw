@@ -1,4 +1,16 @@
-.profes{
+img{
+    width: 80%;
+    border-radius: 80%;
+}
+
+.bg-profes{
     background-image: url(media/esquinas.jpg);
-    background: 
+    background-repeat: no-repeat;
+    background-size: 100% auto, cover;
+}
+
+.bg-alumnos{
+    background-image: url(http://drive.google.com/uc?export=view&id=1sF7g3nZKJBEQrK06OhmPX-Igq5yRscW8);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
 }
