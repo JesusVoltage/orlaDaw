@@ -1,16 +1,30 @@
 img{
-    width: 80%;
+    width: 85%;
     border-radius: 80%;
+    border: 3px solid rgb(54, 54, 54);
 }
-
-.bg-profes{
-    background-image: url(media/esquinas.jpg);
+h2 {
+    font-family: 'Courgette', cursive;
+    font-size: 250%;
+}
+p {
+    font-family: 'Courgette', cursive;
+    font-size: 110%;
+}
+body{
+    background-image: url(media/laterales.jpg);
     background-repeat: no-repeat;
     background-size: 100% auto, cover;
+    background-position:bottom; 
+    padding-top: 4%; 
 }
 
 .bg-alumnos{
-    background-image: url(http://drive.google.com/uc?export=view&id=1sF7g3nZKJBEQrK06OhmPX-Igq5yRscW8);
-    background-repeat: no-repeat;
-    background-size: 100% auto;
+    border-left: solid 5px black;
+}
+#alumnos{
+    padding-bottom: 4%;
+}
+#binario p{
+    font-size: 110%;
 }
